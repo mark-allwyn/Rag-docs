@@ -1,0 +1,8 @@
+streamlit>=1.36.0
+numpy>=1.24.0
+pymupdf>=1.23.0
+python-pptx>=0.6.21
+openai>=1.40.0
+cohere>=5.16.0
+chromadb>=0.5.3
+python-dotenv>=1.0.1
